@@ -7,3 +7,10 @@
 <p> python -m pip install <strong>git+https://github.com/nficano/pytube </strong></p>
 <p>pytube --version  9.6.4 </p>
 <p> et voila ! </p>
+  <p> Autre maniere de pouvoir telecharger les videos youtube </p>
+  <p><strong> En utilisant import youtube_dl <strong></p>
+  <p> sur certains lien  youtube_dl  fonctionne beaucoup mieux </p>
+  <p> le fichier est alors youtube2021.py </p>
+  <p> ------------------------------------</p>
+  
+  
